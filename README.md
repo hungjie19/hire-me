@@ -20,7 +20,7 @@
   - NodeJS
  - Familiar Framework: 
   - Frontend: Ionic , Ui-bootstrap , Angular Material Design
-  - Backend: [Firebase](AngularFire) , Express
+  - Backend: Firebase(AngularFire) , Express
   - MongoDB: Mongojs , Mongoose
  - Create API:
   - Third-party: Instagram(Restful) , Firebase
