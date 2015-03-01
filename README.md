@@ -1,4 +1,4 @@
-# 鍾傑倫 (Chieh Lun)
+# 鍾傑倫
 
  - Birthday: Feb 20th , 1991
  - Education : 成功大學物理系 (2009 - 2013)
@@ -6,7 +6,7 @@
  - Latest Portfolio :　https://wudy-physics.firebaseapp.com/
 
 # Professional Skill
-***
+
  - Graphic and Web Software
   - Photoshop , Edge Animate , Edge Reflow
  -  HTML & CSS3
@@ -31,7 +31,7 @@
   - Hybrid mobile app : Phonegap
  
 # Other
-***
+
  - 喜歡挑戰、創新、團隊合作
  - 熱愛閱讀及研究國內外前端技術文章
  - 參與社群活動：高雄前端社群、創業抬槓
