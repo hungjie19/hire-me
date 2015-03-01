@@ -16,7 +16,7 @@
   - Responsive Web Design
  - Scripting and Programming Language
   - Javascript
-  - [AngularJS]
+  - AngularJS
   - NodeJS
  - Familiar Framework: 
   - Frontend: Ionic , Ui-bootstrap , Angular Material Design
@@ -26,7 +26,7 @@
   - Third-party: Instagram(Restful) , Firebase
   - Custom API: Nodejs and Mongodb
  - Tools:
-  - Workflow: [Gulp] , Ionic and Chrome dev tools
+  - Workflow: Gulp , Ionic and Chrome dev tools
   - Version control systems : Git & Github
   - Hybrid mobile app : Phonegap
  
