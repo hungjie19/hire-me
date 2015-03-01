@@ -1,9 +1,9 @@
 # 鍾傑倫
 
  - Birthday: Feb 20th , 1991
- - Education : 成功大學物理系 (2009 - 2013)
- - Personal Website : https://chungchiehlun.github.io/
- - Latest Portfolio :　https://wudy-physics.firebaseapp.com/
+ - Education: 成功大學物理系 (2009 - 2013)
+ - Personal Website: https://chungchiehlun.github.io/
+ - Latest Portfolio: https://wudy-physics.firebaseapp.com/
 
 # Professional Skill
 
