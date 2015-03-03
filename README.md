@@ -34,7 +34,7 @@
 # Professional Skill
  
 - 適當使用Wireframe及 Mockup 工具作為輔助，建立與設計師溝通的視覺化語言。
-- 應用MVC開發框架，套用適當介面模版(EJS)，完成後端與前端介面整合。
+- 應用MVC開發框架，套用適當模版(EJS)，完成後端與前端介面整合。
 - 前端使用AngularJS去完成前端效果及使用者體驗。
 - 後端使用Nodejs作為開發框架並結合Mongodb nosql資料庫。
 - 使用Third-party API及撰寫Custom API與HTTP Server溝通。
