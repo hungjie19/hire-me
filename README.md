@@ -1,12 +1,14 @@
 # 鍾傑倫
 
-# Profile
+## Profile
 - Birthday: Feb 20th , 1991
 - Job Titles: 前端工程師
 - Education: 成功大學物理系 (2009 - 2013)
 - Github: https://github.com/chungchiehlun
+- LinkedIn: https://tw.linkedin.com/in/chieh-lun-chung-7427918a
+- E-mail: wuceh14678@gmail.com
 
-# Experience
+## Experience
 - [Kdan Mobile](http://www.kdanmobile.com/en/) (2015 - )
   - [Kdan Cloud](https://auth.kdanmobile.com/) : 雲端服務 - 前端工程師
 
@@ -17,14 +19,14 @@
   - [Node 網路爬蟲](https://github.com/chungchiehlun/WebSpider)
   - [用 Flux 與 React 實作 todo](https://github.com/chungchiehlun/flux-todo)
   - [React X postcss X css modules ](https://github.com/chungchiehlun/rwd-react.git)
-  
-# Professional Skill 
+
+## Professional Skill
 - CSS Processor: Sass , PostCSS , CSSModule
 - Javascript: Angular , React , Redux , ES6
 - Tool: Webpack , Gulp
 - Backend: Rails , Express
 
 
-# Personal Attributes 
+## Personal Attributes
 - 喜歡研究新的前端技術: 即使非程式背景也希望能寫出改變世界的演算法
 - 追求優雅的前端自動化, 模組化, 元件化: 提升開發效率與降低維護成本
