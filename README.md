@@ -1,49 +1,30 @@
 # 鍾傑倫
 
- - Birthday: Feb 20th , 1991
- - Education: 成功大學物理系 (2009 - 2013)
- - Personal Website: https://chungchiehlun.github.io/
- - Latest Portfolio: 
-  - https://wudy-physics.firebaseapp.com/
-  - http://chiehlunblog.herokuapp.com/
- - 參與社群活動: 高雄前端社群
+# Profile
+- Birthday: Feb 20th , 1991
+- Job Titles: 前端工程師
+- Education: 成功大學物理系 (2009 - 2013)
+- Github: https://github.com/chungchiehlun
 
-# Professional Tools
+# Experience
+- [Kdan Mobile](http://www.kdanmobile.com/en/) (2015 - )
+  - [Kdan Cloud](https://auth.kdanmobile.com/) : 雲端服務 - 前端工程師
 
- - Graphic and Web Software
-  - Photoshop , Edge Animate , Edge Reflow
- -  HTML & CSS3
-  - CSS framework: Bootstrap
-  - CSS standard: CSSOM , SMACSS
-  - Sass: Compass, Susy2
-  - Responsive Web Design
- - Scripting and Programming Language
-  - Javascript
-  - AngularJS
-  - NodeJS
- - Familiar Framework: 
-  - Frontend: Ionic , Ui-bootstrap , Angular Material Design
-  - Backend: Firebase(AngularFire) , Express
-  - MongoDB: Mongojs , Mongoose
- - Tools:
-  - Workflow: Gulp , Ionic and Chrome dev tools
-  - Version control systems : Git & Github
-  - Hybrid mobile app : Phonegap
-  - Cloud Application Platform : Heroku 
-  - Nosql Database : Mongodb (Mongoose)
+- 前端社群分享主題
+  - [Selenium 與整合性測試](http://www.slideshare.net/ssusera1d1af/selenium-48376598)
+  - [Chrome開發工具](http://www.slideshare.net/ssusera1d1af/chorme-devtools)
+  - [如何最佳化網頁圖片](http://www.slideshare.net/ssusera1d1af/images-meet-web-50494410)
+  - [Node 網路爬蟲](https://github.com/chungchiehlun/WebSpider)
+  - [用 Flux 與 React 實作 todo](https://github.com/chungchiehlun/flux-todo)
+  - [React X postcss X css modules ](https://github.com/chungchiehlun/rwd-react.git)
+  
+# Professional Skill 
+- CSS Processor: Sass , PostCSS , CSSModule
+- Javascript: Angular , React , Redux , ES6
+- Tool: Webpack , Gulp
+- Backend: Rails , Express
 
-# Professional Skill
- 
-- 適當使用 Wireframe 及 Mockup 工具作為輔助，建立與設計師溝通的視覺化語言。
-- 熟悉後端 MVC framework，View 使用 EJS template，與後端工程師溝通整合。
-- 前端使用 AngularJS (frontend MVC framework) 完成前端效果及取得 API 。
-- 後端使用 Nodejs 作為開發框架並結合 Mongodb nosql 資料庫。
-- 使用 Third-party API 及 Custom API 與 HTTP Server溝通。
-- 優化工作流，適當使用框架，建立開發標準及收集使用者回饋。
-- 熟悉版本控制系統、Hybrid Mobile APP、RWD Mobile Web開發。
 
 # Personal Attributes 
-
- - 喜歡挑戰、創新、注重細節
- - 快速融入並為團隊創造好的工作氛圍
- - 熱愛中外前端技術類文章，追求新的知識
+- 喜歡研究新的前端技術: 即使非程式背景也希望能寫出改變世界的演算法
+- 追求優雅的前端自動化, 模組化, 元件化: 提升開發效率與降低維護成本
