@@ -3,7 +3,7 @@
 ## Profile
 Birthday: Feb 20th , 1991
 <br>Education: 成功大學物理系 (2009 Immutable- 2013)
-<br>Contact Me: 
+<br>Contact Me:
  - Email: wuceh14678@gmail.com
  - [Github](https://github.com/chungchiehlun)
  - [LinkedIn](https://tw.linkedin.com/in/chieh-lun-chung-7427918a)
@@ -13,30 +13,30 @@ Birthday: Feb 20th , 1991
 為公司第一位前端, 嘗試導入更多前端技術, 如 React, Webpack, CSS Style Guide 等等讓網頁開發更有效率, 在內部主要參與 [Kdan Cloud](https://auth.kdanmobile.com/) 專案, 也從零開始學習了 ruby on rails 並精進 javascript, 致力於開發出更完善的 Cloud 服務
 
 ## Open Source Project
-`React in RWD`
+#### `React in RWD`
 <br>[Github](https://github.com/chungchiehlun/rwd-react)
 <br>在 Web Component 的趨勢下, 如何使用 React 與 CSS Modules, 完成 reusable 及 responsive Component, 也使用了編譯速度比 sass 更快的 postcss ,
 再用 webpack bundle , 完成更快速與更好維護的前端開發
 
-`NodeJS 網路爬蟲`
+#### `NodeJS 網路爬蟲`
 <br>[Github](https://github.com/chungchiehlun/WebSpider)
 <br>[分享簡報](http://www.slideshare.net/ssusera1d1af/nodejs-53236276)
 <br>用 NodeJS 實作爬蟲研究前端與後端的溝通, 實做了一個網站服務,使用者可以在只輸入一次資料的情況下, 就獲得4家廉價航空的資訊 <br>
 
-`Firebase + AngularJS`
+#### `Firebase + AngularJS`
 <br>[Github](https://github.com/chungchiehlun/wudy)
 <br>在第一次接觸 Web 開發的時候, 使用 Angular 去完成前端, 了解到其快速且強大建構網頁應用程式的能力, 並試著在當時還不懂後端的情況下, 用 BaaS 完成後端儲存及登入的功能
 
 > 喜歡學習也喜歡分享
 
 ## Presentation
-[`整合性測試`](http://www.slideshare.net/ssusera1d1af/selenium-48376598)
-介紹 Selenium 及應用於介面的整合性測試 , 並搭配 Gulp 將測試流程的自動化,並提供簡單的 [demo ](https://github.com/chungchiehlun/Selenium_demo), 也搭配 [protractor
+#### [`整合性測試介紹`](http://www.slideshare.net/ssusera1d1af/selenium-48376598)
+介紹 Selenium 及應用於介面的整合性測試 , 並搭配 Gulp 將測試流程的自動化,並提供簡單的 #### [demo ](https://github.com/chungchiehlun/Selenium_demo), 也搭配 [protractor
 ](http://angular.github.io/protractor/#/)去完成 Angular 應用程式的整合性測試
 [demo 2](https://github.com/chungchiehlun/Selenium_demo_2)
 <br>
 
-[`Chrome開發工具`](http://www.slideshare.net/ssusera1d1af/chorme-devtools)
+#### [`Chrome開發工具`](http://www.slideshare.net/ssusera1d1af/chorme-devtools)
 <br> 整理了前端勢必得深入了解的 Chrome 開發工具使用方法
 
 [`如何最佳化網頁圖片`](http://www.slideshare.net/ssusera1d1af/images-meet-web-50494410)
