@@ -2,7 +2,7 @@
 
 ## Profile
 - Birthday: Feb 20th , 1991
-- Job Titles: 前端工程師
+- Job Title: 前端工程師
 - Education: 成功大學物理系 (2009 - 2013)
 - Github: https://github.com/chungchiehlun
 - LinkedIn: https://tw.linkedin.com/in/chieh-lun-chung-7427918a
