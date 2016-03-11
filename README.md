@@ -26,15 +26,13 @@
 * 熟悉 ES2015 Standard 
 * 熟悉 React / Redux / RxJS 及相關專案，並應用於產品開發
 * 善用 Webpack 及 Gulp 等相關套件建置 workflow
- 
+* 結合 Third Party API ， Ex: Facebook , Instagram , Youtube , Google Map ...
+
 ### Backend / 雲端服務
 * 善用 AWS 建構後端基礎設施，Ex: Lambda , Dynamodb , API Gateway , S3。
 * 熟悉 Firebase API 建構 Realtime 後端服務
-* 熟悉 ExpressJS 開發
+* 熟悉 ExpressJS 開發，建置後端服務及ＡＰＩ
 * 熟悉 Isomorphic Javascirpt 並參與過 Github 上相關專案
-
-### Third Party API
-* 使用過許多 API 整合網站應用程式，Ex: Instagram , Youtube , Google Map ...
 
 ### Test
 * Mocha ＆ Chai BDD Unit Test  
@@ -45,27 +43,25 @@
 ## 近期於前端社群的分享內容
 #### React in RWD
 [Code](https://github.com/chungchiehlun/rwd-react)
-<br>在 Web Component 的趨勢下, 如何使用 React 與 CSS Modules , 完成 reusable 及 responsive Component, 也使用了編譯速度比 sass 更快的 postcss ,
-再用 webpack bundle , 完成更快速與更好維護的前端開發
+<br>在 Web Component 的趨勢下, 如何使用 React 與 CSS Modules，完成 reusable 及 responsive Component, 也使用了編譯速度比 sass 更快的 postcss，再用 webpack bundle , 完成更快速與更好維護的前端開發
 
 #### NodeJS 網路爬蟲
 [Code](https://github.com/chungchiehlun/WebSpider) &
-[簡報連結](http://www.slideshare.net/ssusera1d1af/nodejs-53236276)
-<br>用 NodeJS 實作爬蟲研究前端與後端的溝通, 實做了一個網站服務,使用者可以在只輸入一次資料的情況下, 就獲得4家廉價航空的資訊 <br>
+[簡報](http://www.slideshare.net/ssusera1d1af/nodejs-53236276)
+<br>用 NodeJS 實作爬蟲研究前端與後端的溝通，實做了一個網站服務，使用者可以在只輸入一次資料的情況下，就爬到 4 家廉價航空的資訊 <br>
 
 #### 整合性測試介紹
-[簡報連結](http://www.slideshare.net/ssusera1d1af/selenium-48376598)
-<br>介紹 Selenium 及應用於介面的整合性測試 , 並搭配 Gulp 將測試流程的自動化, 並提供簡單的 [demo](https://github.com/chungchiehlun/Selenium_demo), 及搭配 [protractor
-](http://angular.github.io/protractor/#/)去完成 Angular 應用程式的整合性測試的
-[demo 2](https://github.com/chungchiehlun/Selenium_demo_2)
-<br>
+[簡報](http://www.slideshare.net/ssusera1d1af/selenium-48376598)
+<br>[Demo1](https://github.com/chungchiehlun/Selenium_demo) [Demo2](https://github.com/chungchiehlun/Selenium_demo_2)
+<br>介紹 Selenium 及應用於介面的整合性測試，並搭配 Gulp 將測試流程的自動化，及搭配 [protractor
+](http://angular.github.io/protractor/#/)去完成 Angular 應用程式的整合性測試
 
 #### Chrome開發工具
-[簡報連結](http://www.slideshare.net/ssusera1d1af/chorme-devtools)
+[簡報](http://www.slideshare.net/ssusera1d1af/chorme-devtools)
 <br>整理了前端勢必得深入了解的 Chrome 開發工具使用方法
 
 #### 如何最佳化網頁圖片
-[簡報連結](http://www.slideshare.net/ssusera1d1af/images-meet-web-50494410)
+[簡報](http://www.slideshare.net/ssusera1d1af/images-meet-web-50494410)
 <br>在網頁速度越來越被重視的現在, 圖片的處理是一個不可忽略得課題, 此次演講分析了如何分別用 html , css , javascript 的方式去載入響應式圖片, 並且對不同的圖片類型最佳化 , 並且搭配 Gulp 將圖片處理流程自動化
 
 
